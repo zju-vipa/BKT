@@ -1,0 +1,51 @@
+#status hyper-parameters
+
+num_class: 1
+backbone: resnet
+out_stride: 16
+sync_bn: True
+freeze_bn: True
+dump_folder: /home/clc/dump_results/segmentation/
+
+
+#dataset hyper-parameters
+lambda_gp: 10
+#data_dir: /home/clc/data/segmentation_data/Portrait/
+train_list: train_data.txt
+val_list: val_data.txt
+crop_size: 128
+val_size: 192
+#random_area: [0.3,1.0]
+#random_aspect_ratio: [0.8,1.25]
+#interp_type:
+
+#model hyper-parameters
+#arc: resnet50
+#pretrained: True
+#optimizer: AdamW
+lr: 0.001
+epochs: 10000
+batch_size: 64
+grid_size: 8
+#init_type: kaiming
+#scheduler: CosineAnnealingWarmRestarts #OneCycleLR
+
+#min_lr: 0.0000001
+#kernel_size_refine: 19
+#kernel_size: 25
+
+#lr_decay: 0.1
+#epoch_interval: 30
+#weight_decay: 0.01 #3e-6 --> 1e-5
+#momentum: 0.9
+#max_lr: 0.01
+
+#num_critic: 1
+
+#part_size: 224
+#center_N: 8
+#center_dim: 2048
+#sample_size: 6
+#other hyper-parameters
+#device_id: 2
+
