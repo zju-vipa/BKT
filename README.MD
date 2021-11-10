@@ -2,6 +2,8 @@ Trans-Net
 ==========
 Code for (Visual Boundary Knowledge Translation, AAAI2021).  [https://ojs.aaai.org/index.php/AAAI/article/view/16222]. 
 
+![image](https://user-images.githubusercontent.com/6896182/141064192-3dad4369-7307-459a-8bb3-5e9d639239af.png)
+
 ### Installation
 For packages, 
 
