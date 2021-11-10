@@ -52,13 +52,19 @@ SIP1K: [https://mmcheng.net/code-data/](https://mmcheng.net/code-data/)
 
 ### SOTA Comparison
 CAC: [https://github.com/akwasigroch/coattention_object_segmentation](https://github.com/akwasigroch/coattention_object_segmentation)
+
 ReDO:  [https://github.com/mickaelChen/ReDO](https://github.com/mickaelChen/ReDO)
+
 SG-One: [https://github.com/xiaomengyc/SG-One](https://github.com/xiaomengyc/SG-One)
+
 PANet: [https://github.com/kaixin96/PANet](https://github.com/kaixin96/PANet)
+
 ALSSS: [https://github.com/hfslyc/AdvSemiSeg](https://github.com/hfslyc/AdvSemiSeg)
+
 USSS: [https://github.com/tarun005/USSS_ICCV19](https://github.com/tarun005/USSS_ICCV19)
 
 Unet/FPN/LinkNet/PSPNet/PAN: [https://github.com/qubvel/segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch)
+
 DeepLab_V3+: [https://github.com/jfzhang95/pytorch-deeplab-xception.git](https://github.com/jfzhang95/pytorch-deeplab-xception.git)
 
 ### How to run
