@@ -1,6 +1,6 @@
 Trans-Net
 ==========
-Code for Visual Boundary Knowledge Translation. 
+Code for [https://ojs.aaai.org/index.php/AAAI/article/view/16222](Visual Boundary Knowledge Translation, AAAI2021). 
 
 ### Installation
 For packages, 
